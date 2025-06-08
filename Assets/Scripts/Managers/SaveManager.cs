@@ -14,6 +14,9 @@ public class Data
     public Vector3 playerRotation;
 }
 
+/// <summary>
+/// Author: nithin
+/// </summary>
 public class SaveManager : MonoBehaviour
 {
     private static SaveManager instance;     //SINGLETON IMPLEMENTATION
